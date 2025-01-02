@@ -1,0 +1,57 @@
+
+
+
+body {
+  font-family: Arial, sans-serif;
+  
+  background-image: url("https://img.freepik.com/free-vector/gradient-question-mark-pattern-design_23-2149423893.jpg?t=st=1734084969~exp=1734088569~hmac=d26560a577b6ac58dda6c5cca98f3afc4120053b76bf2c0bf6729d1180d2c0dc&w=740");
+}
+.game-logo {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.game-logo h1 {
+  margin-left: 90px;;
+  margin-right: 400px;
+  font-size: 48px;
+  color: white;
+  border: 4px pink double;
+  width:90%;
+
+}
+.information{
+  font-size: 30px;
+  color:whitesmoke;
+}
+input[type="text"]{
+  font-size: 15px;
+  width: 550px;
+  height: 25px;
+  color: black;
+  border-radius: 15px;
+}
+.start-button {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.start-button button {
+  width: 150px;
+  height: 50px;
+  font-size: 24px;
+  background-color: palevioletred;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.start-button button:hover {
+  background-color: pink;
+}
+.checkbox
+  {
+    font-size: large;
+    color:aqua;
+  }
